@@ -15,3 +15,6 @@ DIscord Question_bot_project
 
 ## Start Bot
 위 사항들이 모두 완료되었다면 Start_bot.bat파일을 실행시켜주세요! 실행도중 에러가 있다면 MOS_우기 카테고리에있는 질문방에 올려주세요!
+
+## Developer's Word
+해당 봇 및 다른 봇들은 MOS_우기 카테고리에있는 아이디어채널에 아이디어를 올려주시면 업데이트 또는 새로 개발이 진행됩니다!
