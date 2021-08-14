@@ -19,7 +19,7 @@ async def on_message(message):
     if message.author.bot:
         return None 
     if message.content.startswith("##리로드"):
-        if message.author.id == 727063255423516692 or message.author.id == 850729639818559519 or message.author.id == 715234740952891465:
+        if message.author.id == 0 or message.author.id == 0 or message.author.id == 0:
             reload(add_message)
             reload(config)
             await message.reply(embed=discord.Embed(title="Module Reload", description="✅ 모든 모듈을 모두 다시 시작했습니다"))
