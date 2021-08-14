@@ -1,4 +1,3 @@
-from typing import Collection
 import discord 
 import asyncio 
 from source import config
