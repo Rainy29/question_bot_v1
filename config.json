@@ -1,0 +1,20 @@
+{
+    "setting": {
+        "category": "",
+        "guild": "",
+        "guild2": "",
+        "log_channel": ""
+    },
+
+    "bot": {
+        "token": ""
+    },
+
+    "설명서": {
+        "category": "카테고리 ID",
+        "guild": "guild ID (문의하는 길드)",
+        "guild2": "guild2 ID (문의받은 길드)",
+        "log_channel": "로그 채널 ID",
+        "token": "토큰"
+    }
+}
